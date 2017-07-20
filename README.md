@@ -4,6 +4,10 @@
 
 7/18/2017
 
+ - Fixed Snap++ conflicting with other IPAs
+
+7/18/2017
+
  - 1.6r-136 Fix Photo uploads from gallery
  - 1.6r-135 Fix uploads for some people
 
