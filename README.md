@@ -2,6 +2,10 @@
 
 **Changelog**
 
+8/7/2017
+
+ - Updated Snapchat++ to App Version 10.14.1
+
 7/28/2017
 
  - Updated to include latest fixes for sideload
