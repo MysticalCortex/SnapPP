@@ -2,6 +2,10 @@
 
 **Changelog**
 
+8/14/2017
+
+ - Updated Snapchat++ to it's latest Tweak Version
+
 8/7/2017
 
  - Updated Snapchat++ to App Version 10.14.1
@@ -26,4 +30,3 @@
 7/13/2017
 
  - 1.6r-134 Fixes Tweet button in Ad Removal Section. also adds a Tweet to remove ads Button.
-
