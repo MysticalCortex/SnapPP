@@ -1,5 +1,7 @@
 **[Download Links Here](https://github.com/JMccormick264/SnapPP/releases)**
 
+**[Issue Repo Here](https://github.com/eni9889/SC-PP-ISSUES)**
+
 **Changelog**
 
 8/15/2017
