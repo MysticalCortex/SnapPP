@@ -4,6 +4,10 @@
 
 **Changelog**
 
+8/30/2017
+
+ - Updated Snapchat++ to App Version 10.16.0
+
 8/18/2017
 
  - Updated to Tweak Version 1.6r-163
