@@ -4,6 +4,11 @@
 
 **Changelog**
 
+10/16/2017
+
+ - Updated Snapchat++ to App Version 10.19.5 and latest tweak
+
+
 10/9/2017
 
  - Updated to App Version 10.19.0
@@ -34,7 +39,7 @@
  - Updated Snapchat++ to App Version 10.16.0
 
 
-Crefits:
+Credits:
 
 Me for making the tweak into an IPA
 Unlimapps for making the tweak and ppsideloader
