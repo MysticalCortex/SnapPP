@@ -1,5 +1,5 @@
 
-**[New Repo Link Here](https://github.com/JMccormick264/SnapPP/releases)**
+**[Snapchat++ Download Page Here](https://github.com/JMccormick264/SnapPP/releases)**
 
 **[Issue Repo Here](https://github.com/eni9889/SC-PP-ISSUES)**
 
