@@ -5,6 +5,11 @@
 
 **Changelog**
 
+11/12/2017
+
+ - Updated to App Version 10.21.1
+ - Note: Still does not load stories. Waiting on Unlim to fix it
+
 10/30/2017
 
  - Updated Snapchat++ to App Version 10.20.0
