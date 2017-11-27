@@ -5,6 +5,11 @@
 
 **Changelog**
 
+11/27/2017
+
+ - Snapchat++ works with 10.19.5 (Can't use 10.20.x)
+ - Updated to Tweak 1.7r-3
+
 11/12/2017
 
  - Updated to App Version 10.21.1
