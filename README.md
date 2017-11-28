@@ -5,6 +5,10 @@
 
 **Changelog**
 
+11/27/2017 (2)
+
+ - Reuploaded. I was being a dummy
+
 11/27/2017
 
  - Snapchat++ works with 10.19.5 (Can't use 10.20.x)
