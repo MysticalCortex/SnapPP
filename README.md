@@ -5,6 +5,11 @@
 
 **Changelog**
 
+3/13/2018
+
+ - Updated Snapchat to App Version 10.27.1.1
+ - Updated to Tweak version 1.7r-54
+
 11/27/2017 (2)
 
  - Reuploaded. I was being a dummy
